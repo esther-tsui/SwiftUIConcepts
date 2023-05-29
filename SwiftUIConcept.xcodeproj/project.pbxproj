@@ -13,12 +13,6 @@
 		72EF312D2A1F806B0094FD14 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72EF312C2A1F806B0094FD14 /* Preview Assets.xcassets */; };
 		72EF31342A1F91040094FD14 /* MyAlternativeScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EF31332A1F91040094FD14 /* MyAlternativeScene.swift */; };
 		72EF31362A1F95D20094FD14 /* KeywordBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EF31352A1F95D20094FD14 /* KeywordBubble.swift */; };
-		72EF313A2A1FA4C90094FD14 /* leafImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EF31392A1FA4C90094FD14 /* leafImage.swift */; };
-		72EF31492A1FBDEB0094FD14 /* CaptionedPhoto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EF31482A1FBDEB0094FD14 /* CaptionedPhoto.swift */; };
-		72EF314B2A1FC42A0094FD14 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72EF314A2A1FC42A0094FD14 /* Preview Assets.xcassets */; };
-		72EF314D2A1FCA0B0094FD14 /* IfElseTrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EF314C2A1FCA0B0094FD14 /* IfElseTrain.swift */; };
-		72EF314F2A1FCFE40094FD14 /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EF314E2A1FCFE40094FD14 /* Event.swift */; };
-		72EF31512A20E2040094FD14 /* TrainCar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EF31502A20E2040094FD14 /* TrainCar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,12 +23,6 @@
 		72EF312C2A1F806B0094FD14 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		72EF31332A1F91040094FD14 /* MyAlternativeScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAlternativeScene.swift; sourceTree = "<group>"; };
 		72EF31352A1F95D20094FD14 /* KeywordBubble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeywordBubble.swift; sourceTree = "<group>"; };
-		72EF31392A1FA4C90094FD14 /* leafImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leafImage.swift; sourceTree = "<group>"; };
-		72EF31482A1FBDEB0094FD14 /* CaptionedPhoto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionedPhoto.swift; sourceTree = "<group>"; };
-		72EF314A2A1FC42A0094FD14 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "Preview Assets.xcassets"; path = "../../../../Downloads/layering-content/CaptionedPhoto/Preview Content/Preview Assets.xcassets"; sourceTree = "<group>"; };
-		72EF314C2A1FCA0B0094FD14 /* IfElseTrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfElseTrain.swift; sourceTree = "<group>"; };
-		72EF314E2A1FCFE40094FD14 /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
-		72EF31502A20E2040094FD14 /* TrainCar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainCar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,11 +57,6 @@
 			children = (
 				72EF31252A1F80690094FD14 /* SwiftUIConceptApp.swift */,
 				72EF31352A1F95D20094FD14 /* KeywordBubble.swift */,
-				72EF31392A1FA4C90094FD14 /* leafImage.swift */,
-				72EF31482A1FBDEB0094FD14 /* CaptionedPhoto.swift */,
-				72EF314C2A1FCA0B0094FD14 /* IfElseTrain.swift */,
-				72EF314E2A1FCFE40094FD14 /* Event.swift */,
-				72EF31502A20E2040094FD14 /* TrainCar.swift */,
 				72EF31272A1F80690094FD14 /* myScene.swift */,
 				72EF31332A1F91040094FD14 /* MyAlternativeScene.swift */,
 				72EF31292A1F806B0094FD14 /* Assets.xcassets */,
@@ -168,8 +151,6 @@
 				72EF31282A1F80690094FD14 /* myScene.swift in Sources */,
 				72EF31342A1F91040094FD14 /* MyAlternativeScene.swift in Sources */,
 				72EF31362A1F95D20094FD14 /* KeywordBubble.swift in Sources */,
-				72EF31492A1FBDEB0094FD14 /* CaptionedPhoto.swift in Sources */,
-				72EF314D2A1FCA0B0094FD14 /* IfElseTrain.swift in Sources */,
 				72EF31262A1F80690094FD14 /* SwiftUIConceptApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
