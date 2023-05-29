@@ -27,8 +27,10 @@ struct Caption: View {
     let text: String
     var body: some View {
         Text(text)
+            .foregroundColor(.yellow)
             .padding()
-            .background(Color(""))
+            .background(Color("TextContrast").opacity(0.75), in: RoundedRectangle(cornerRadius: 10.0, style: .continuous))
+            .padding()
     }
 }
 
