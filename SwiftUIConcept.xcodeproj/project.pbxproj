@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		72CD0E0E2A265A8C0068D58A /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CD0E082A265A8C0068D58A /* SwiftUIView.swift */; };
 		72CD0E0F2A265A8C0068D58A /* IfElseTrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CD0E092A265A8C0068D58A /* IfElseTrain.swift */; };
 		72CD0E102A265A8C0068D58A /* TrainCar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CD0E0A2A265A8C0068D58A /* TrainCar.swift */; };
 		72CD0E112A265A8C0068D58A /* CaptionedPhoto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CD0E0B2A265A8C0068D58A /* CaptionedPhoto.swift */; };
@@ -22,7 +21,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		72CD0E082A265A8C0068D58A /* SwiftUIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		72CD0E092A265A8C0068D58A /* IfElseTrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IfElseTrain.swift; sourceTree = "<group>"; };
 		72CD0E0A2A265A8C0068D58A /* TrainCar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrainCar.swift; sourceTree = "<group>"; };
 		72CD0E0B2A265A8C0068D58A /* CaptionedPhoto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CaptionedPhoto.swift; sourceTree = "<group>"; };
@@ -71,7 +69,6 @@
 				72CD0E0D2A265A8C0068D58A /* Event.swift */,
 				72CD0E092A265A8C0068D58A /* IfElseTrain.swift */,
 				72CD0E0C2A265A8C0068D58A /* leafImage.swift */,
-				72CD0E082A265A8C0068D58A /* SwiftUIView.swift */,
 				72CD0E0A2A265A8C0068D58A /* TrainCar.swift */,
 				72EF31252A1F80690094FD14 /* SwiftUIConceptApp.swift */,
 				72EF31352A1F95D20094FD14 /* KeywordBubble.swift */,
@@ -164,7 +161,6 @@
 				72EF31282A1F80690094FD14 /* myScene.swift in Sources */,
 				72CD0E132A265A8C0068D58A /* Event.swift in Sources */,
 				72EF31342A1F91040094FD14 /* MyAlternativeScene.swift in Sources */,
-				72CD0E0E2A265A8C0068D58A /* SwiftUIView.swift in Sources */,
 				72EF31362A1F95D20094FD14 /* KeywordBubble.swift in Sources */,
 				72CD0E122A265A8C0068D58A /* leafImage.swift in Sources */,
 				72CD0E102A265A8C0068D58A /* TrainCar.swift in Sources */,
