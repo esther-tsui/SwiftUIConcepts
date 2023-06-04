@@ -12,6 +12,7 @@
 		72CD0E112A265A8C0068D58A /* CaptionedPhoto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CD0E0B2A265A8C0068D58A /* CaptionedPhoto.swift */; };
 		72CD0E122A265A8C0068D58A /* leafImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CD0E0C2A265A8C0068D58A /* leafImage.swift */; };
 		72CD0E132A265A8C0068D58A /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CD0E0D2A265A8C0068D58A /* Event.swift */; };
+		72CD0E172A27829E0068D58A /* animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CD0E162A27829E0068D58A /* animations.swift */; };
 		72EF31262A1F80690094FD14 /* SwiftUIConceptApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EF31252A1F80690094FD14 /* SwiftUIConceptApp.swift */; };
 		72EF31282A1F80690094FD14 /* myScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EF31272A1F80690094FD14 /* myScene.swift */; };
 		72EF312A2A1F806B0094FD14 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72EF31292A1F806B0094FD14 /* Assets.xcassets */; };
@@ -26,6 +27,7 @@
 		72CD0E0B2A265A8C0068D58A /* CaptionedPhoto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CaptionedPhoto.swift; sourceTree = "<group>"; };
 		72CD0E0C2A265A8C0068D58A /* leafImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = leafImage.swift; sourceTree = "<group>"; };
 		72CD0E0D2A265A8C0068D58A /* Event.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
+		72CD0E162A27829E0068D58A /* animations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = animations.swift; sourceTree = "<group>"; };
 		72EF31222A1F80690094FD14 /* SwiftUIConcept.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIConcept.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72EF31252A1F80690094FD14 /* SwiftUIConceptApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIConceptApp.swift; sourceTree = "<group>"; };
 		72EF31272A1F80690094FD14 /* myScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myScene.swift; sourceTree = "<group>"; };
@@ -65,12 +67,13 @@
 		72EF31242A1F80690094FD14 /* SwiftUIConcept */ = {
 			isa = PBXGroup;
 			children = (
+				72EF31252A1F80690094FD14 /* SwiftUIConceptApp.swift */,
+				72CD0E162A27829E0068D58A /* animations.swift */,
 				72CD0E0B2A265A8C0068D58A /* CaptionedPhoto.swift */,
 				72CD0E0D2A265A8C0068D58A /* Event.swift */,
 				72CD0E092A265A8C0068D58A /* IfElseTrain.swift */,
 				72CD0E0C2A265A8C0068D58A /* leafImage.swift */,
 				72CD0E0A2A265A8C0068D58A /* TrainCar.swift */,
-				72EF31252A1F80690094FD14 /* SwiftUIConceptApp.swift */,
 				72EF31352A1F95D20094FD14 /* KeywordBubble.swift */,
 				72EF31272A1F80690094FD14 /* myScene.swift */,
 				72EF31332A1F91040094FD14 /* MyAlternativeScene.swift */,
@@ -165,6 +168,7 @@
 				72CD0E122A265A8C0068D58A /* leafImage.swift in Sources */,
 				72CD0E102A265A8C0068D58A /* TrainCar.swift in Sources */,
 				72CD0E0F2A265A8C0068D58A /* IfElseTrain.swift in Sources */,
+				72CD0E172A27829E0068D58A /* animations.swift in Sources */,
 				72CD0E112A265A8C0068D58A /* CaptionedPhoto.swift in Sources */,
 				72EF31262A1F80690094FD14 /* SwiftUIConceptApp.swift in Sources */,
 			);
